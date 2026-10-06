@@ -1,5 +1,5 @@
 name: MEG-M1-Score-Polygen-2026 
-# d'après l'env `tMEG-M1-A2B-2026`
+# d'après l'env `MEG-M1-A2B-2026`
 # adapté de Scaburet/template-R-SC-2026, qui est le template ok pour avoir Rstudio sur uracile après maj Plasma
 # Ajout des outils python utilisés pour les TP de Score Polygenique du M1 MEG - UPC
 # 06/10/2026
@@ -55,8 +55,8 @@ dependencies:
   - seaborn==0.13.2
   - statsmodels==0.14.5
   - statannotations>=0.4.2
-  #- gwaslab=3.6.8
-  #- ldsc=2.0.1
+  #- gwaslab=3.6.8         # ne s'installe pas directement, mais via pip
+  #- ldsc=2.0.1            # ne s'installe pas directement, mais via pip
   - pip:
     - gwaslab==3.6.8
     - ldsc==2.0.1
