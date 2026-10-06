@@ -42,38 +42,23 @@ dependencies:
     - watermark
     # - man-db
 
-  # For the M1 A2B course (unix part)
-  - fastqc
-  - multiqc
-  - fastp
-  - star
-  - salmon
-  - samtools
-  - qualimap
-  - subread
+  # For the M1 Polygen course (python part)
+  - gwaslab==3.6.8
+  - ldsc==2.0.1
+  - matplotlib==3.8.4
+  - numpy==1.26.4
+  - pandas==2.3.1
+  - pyarrow==21.0.0
+  - pybedtools==0.11.0
+  - pysam==0.22.1
+  - rpy2==3.6.4
+  - scikit-allel==1.3.8
+  - scipy==1.13.1
+  - seaborn==0.13.2
+  - statsmodels==0.14.5
+  - statannotations>=0.4.2
 
-
-  # R environment (version for Ubuntu 24.04)
-  - r-irkernel
-  - r-base>=4
-
-  # R packages for the M1 A2B course:
-  - r-essentials                  
-  - r-tidyverse                                       
-  - r-markdown
-  - r-rcpp
-  - r-readxl
-  - r-writexl
-  - r-openxlsx
-  - r-factominer
-  - r-factoextra
-  - r-rcolorbrewer 
-  - r-dt
-  - r-corrplot
-  - r-rpart
-  - r-rpart.plot
-  - r-biocManager                 # Bioconductor package manager
-  - r-pheatmap
-  #- r-knitr
-  #- r-rmarkdown
   
+
+
+
