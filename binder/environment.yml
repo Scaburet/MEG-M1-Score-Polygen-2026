@@ -43,7 +43,7 @@ dependencies:
     # - man-db
 
   # For the M1 Polygen course (python part)
-  - gwaslab=3.6.
+  - gwaslab=3.6.8
   - ldsc=2.0.1
   - matplotlib=3.8.4
   - numpy=1.26.4
