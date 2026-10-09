@@ -1,7 +1,7 @@
 # M1 MEG Polygen - Environnement mis à jour pour 2026
 
 M1 du Magistère de Génétique - Université Paris Cité.  
-UE Génétique Humaine 
+UE Génétique Humaine   
 TP de Risque Polygénique 
 
 
