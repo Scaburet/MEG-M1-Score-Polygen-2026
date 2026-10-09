@@ -1,25 +1,11 @@
-# UE A2B - Environnement mis à jour pour 2026
+# M1 MEG Polygen - Environnement mis à jour pour 2026
 
 M1 du Magistère de Génétique - Université Paris Cité.  
-UE A2B - Environnement bash et R pour toutes les étapes d'une analyse RNAseq   
--> apprentissage Unix   
--> quality check, processing, mapping de reads RNAseq paired-end  
--> apprentissage R   
--> Comptage des reads, analyse exploratoire des données RNAseq  
--> analyse différentielle et enrichissement  
--> initiation à l'usage de l'IA en biologie   
-
-## Try it on Binder
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Scaburet/M1-MEG-A2B-unix-2026/master?urlpath=%2Flab/) Jupyter + R kernel
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Scaburet/M1-MEG-A2B-unix-2026/master?urlpath=rstudio) RStudio
+UE Génétique Humaine 
+TP de Risque Polygénique 
 
 
 ## Structure of the repo
-
-
-Both JupyterLab and RStudio are installed.
 
 Once created, the environment can be reused without building it again.
 
